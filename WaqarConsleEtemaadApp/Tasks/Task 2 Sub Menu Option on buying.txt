@@ -1,0 +1,53 @@
+Task # 2 
+
+
+1) The Customer should be able to buy Products in 3 Groups of Items
+ 
+	a)	Drinks
+	b) 	Oil and Ghee 
+	c)	Surfs and Soaps
+
+if Customers Selects Drinks then the following Menu Should appear
+	
+
+You Have Selected Drinks 
+We have 
+
+	1) Pepsi
+	2) 7up
+	3) Dew ...  (5 items at least)
+
+
+
+
+or if Customers Selects Oil and Ghee then the following Menu Should appear
+	
+
+You Have Selected Oil and Ghee 
+We have 
+
+	1) Dalda
+	2) Sufi
+	3) Habib ...   (5 items at least)
+
+
+
+or if Customers Selects Surfs and Soaps then the following Menu Should appear
+	
+
+You Have Selected Surfs and Soaps
+We have 
+
+	1) Bright
+	2) Arieal
+	 ...   (5 items at least)
+
+
+The Progarm should be able to buy the Selected item and its quantity 
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+ Draw &  Sketch the further modules .......
+
