@@ -1,0 +1,9 @@
+
+Task # 1
+
+While Logging User the system should also evaulate the Role of the User
+The system should Show UserName - Role after the loging is Succesfull e.g  Ali - Admin
+
+Before Giving Credentials the User should give its Role Type after that the login window will pop up 
+
+ 

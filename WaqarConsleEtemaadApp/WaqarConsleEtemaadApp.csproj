@@ -46,6 +46,7 @@
     <Compile Include="DBConnectivity\mySqlConnection.cs" />
     <Compile Include="DBServices\LoginService.cs" />
     <Compile Include="Entities\Login.cs" />
+    <Compile Include="Entities\myEnums.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
